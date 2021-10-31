@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74HCT245N
+D Octal Bus Transceivers With 3-State Outputs
+F http://www.ti.com/lit/gpn/sn74hct245
+$ENDCMP
+#
+#End Doc Library
