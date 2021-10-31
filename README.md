@@ -9,11 +9,13 @@ Collection of KiCad Libraries
     - `AA_Custom_Components.lib`
     - `myelin-kicad.lib`
     - `./digikey-kicad-library/digikey-symbols/*`
+    - `./digikey-kicad-library/digikey-symbols/*`
+    - `./sparkfun-kicad-library/Libraries/*`
 
 
 ## Sources
 - `myelin-kicad.lib` is from [here](https://github.com/myelin/myelin-kicad-libraries)
-- Digikey kicad library was added using [git subtree](https://gist.github.com/SKempin/b7857a6ff6bddb05717cc17a44091202)
+- Digikey and Sparkfun KiCad library were added using [git subtree](https://gist.github.com/SKempin/b7857a6ff6bddb05717cc17a44091202)
 
 ## Links
 - [Shawn Hymel's KiCAD tutorial](https://www.youtube.com/playlist?list=PLEBQazB0HUyR24ckSZ5u05TZHV9khgA1O)
