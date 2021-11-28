@@ -46,122 +46,122 @@ K PROD_ID:CONN-08971
 $ENDCMP
 #
 $CMP ATX24RH
-D ATX24 Pin Power Supply Connector - Right Angle PTH Mount This is a good connector for connecting a computer power supply to a PCB. It's massive, but provides many amps of power at 5V and 12V. SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/12867 >SparkFun Benchtop Power Board Kit</a></li><li><a href= https://www.sparkfun.com/products/10618 >SparkFun Power Driver Shield Kit</a></li></ul> 
+D ATX24 Pin Power Supply Connector - Right Angle PTH Mount This is a good connector for connecting a computer power supply to a PCB. It's massive, but provides many amps of power at 5V and 12V. SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/12867 >SparkFun Benchtop Power Board Kit</a></li><li><a href= https://www.sparkfun.com/products/10618 >SparkFun Power Driver Shield Kit</a></li></ul>
 K PROD_ID:CONN-09674
 $ENDCMP
 #
 $CMP AUDIO_JACK_2.5MMSPECIAL_POGO_PINS
-D Audio Jack 2.5mm variants of PTH and SMT audio jacks. SparkFun Products:<li><a href= https://www.sparkfun.com/products/11888 >SparkFun PicoBoard</a>- 2.5mm SMD</li></ul> 
+D Audio Jack 2.5mm variants of PTH and SMT audio jacks. SparkFun Products:<li><a href= https://www.sparkfun.com/products/11888 >SparkFun PicoBoard</a>- 2.5mm SMD</li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP AUDIO_JACK_2.5MM_2.5MM
-D Audio Jack 2.5mm variants of PTH and SMT audio jacks. SparkFun Products:<li><a href= https://www.sparkfun.com/products/11888 >SparkFun PicoBoard</a>- 2.5mm SMD</li></ul> 
+D Audio Jack 2.5mm variants of PTH and SMT audio jacks. SparkFun Products:<li><a href= https://www.sparkfun.com/products/11888 >SparkFun PicoBoard</a>- 2.5mm SMD</li></ul>
 K PROD_ID:CONN-09878
 $ENDCMP
 #
 $CMP AUDIO_JACK_2.5MM_2.5MM_SMD
-D Audio Jack 2.5mm variants of PTH and SMT audio jacks. SparkFun Products:<li><a href= https://www.sparkfun.com/products/11888 >SparkFun PicoBoard</a>- 2.5mm SMD</li></ul> 
+D Audio Jack 2.5mm variants of PTH and SMT audio jacks. SparkFun Products:<li><a href= https://www.sparkfun.com/products/11888 >SparkFun PicoBoard</a>- 2.5mm SMD</li></ul>
 K PROD_ID:CONN-10062
 $ENDCMP
 #
 $CMP AUDIO_JACK_2.5MM_HOLESONLY
-D Audio Jack 2.5mm variants of PTH and SMT audio jacks. SparkFun Products:<li><a href= https://www.sparkfun.com/products/11888 >SparkFun PicoBoard</a>- 2.5mm SMD</li></ul> 
+D Audio Jack 2.5mm variants of PTH and SMT audio jacks. SparkFun Products:<li><a href= https://www.sparkfun.com/products/11888 >SparkFun PicoBoard</a>- 2.5mm SMD</li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP AUDIO_JACK_3.5MM_KIT
-D Audio Jack  3.5mm variants of PTH and SMT stereo audio jack with bypass switches. SparkFun Products:<ul><li><a href= [https://www.sparkfun.com/products/11177] >SparkFun SparkPunk Sound Kit </a> - PTH</li><li><a href= https://www.sparkfun.com/products/13720 >MP3 Trigger</a> -3.5mm SMD</li><li><a href= https://www.sparkfun.com/products/11888 >SparkFun PicoBoard</a>- 2.5mm SMD</li></ul> 
+D Audio Jack  3.5mm variants of PTH and SMT stereo audio jack with bypass switches. SparkFun Products:<ul><li><a href= [https://www.sparkfun.com/products/11177] >SparkFun SparkPunk Sound Kit </a> - PTH</li><li><a href= https://www.sparkfun.com/products/13720 >MP3 Trigger</a> -3.5mm SMD</li><li><a href= https://www.sparkfun.com/products/11888 >SparkFun PicoBoard</a>- 2.5mm SMD</li></ul>
 K PROD_ID:CONN-08774
 $ENDCMP
 #
 $CMP AUDIO_JACK_3.5MM_PTH
-D Audio Jack  3.5mm variants of PTH and SMT stereo audio jack with bypass switches. SparkFun Products:<ul><li><a href= [https://www.sparkfun.com/products/11177] >SparkFun SparkPunk Sound Kit </a> - PTH</li><li><a href= https://www.sparkfun.com/products/13720 >MP3 Trigger</a> -3.5mm SMD</li><li><a href= https://www.sparkfun.com/products/11888 >SparkFun PicoBoard</a>- 2.5mm SMD</li></ul> 
+D Audio Jack  3.5mm variants of PTH and SMT stereo audio jack with bypass switches. SparkFun Products:<ul><li><a href= [https://www.sparkfun.com/products/11177] >SparkFun SparkPunk Sound Kit </a> - PTH</li><li><a href= https://www.sparkfun.com/products/13720 >MP3 Trigger</a> -3.5mm SMD</li><li><a href= https://www.sparkfun.com/products/11888 >SparkFun PicoBoard</a>- 2.5mm SMD</li></ul>
 K PROD_ID:CONN-08774
 $ENDCMP
 #
 $CMP AUDIO_JACK_3.5MM_SMD
-D Audio Jack  3.5mm variants of PTH and SMT stereo audio jack with bypass switches. SparkFun Products:<ul><li><a href= [https://www.sparkfun.com/products/11177] >SparkFun SparkPunk Sound Kit </a> - PTH</li><li><a href= https://www.sparkfun.com/products/13720 >MP3 Trigger</a> -3.5mm SMD</li><li><a href= https://www.sparkfun.com/products/11888 >SparkFun PicoBoard</a>- 2.5mm SMD</li></ul> 
+D Audio Jack  3.5mm variants of PTH and SMT stereo audio jack with bypass switches. SparkFun Products:<ul><li><a href= [https://www.sparkfun.com/products/11177] >SparkFun SparkPunk Sound Kit </a> - PTH</li><li><a href= https://www.sparkfun.com/products/13720 >MP3 Trigger</a> -3.5mm SMD</li><li><a href= https://www.sparkfun.com/products/11888 >SparkFun PicoBoard</a>- 2.5mm SMD</li></ul>
 K PROD_ID:CONN-10353
 $ENDCMP
 #
 $CMP AUDIO_JACK_TRRSSMD_RA
-D Audio Jack - 3.5mm TRRS (SMD) This is a 3.5mm TRRS SMD audio jack. <br>TRRS connectors are the audio-style connectors that you see on some phones, MP3 players and development boards. <br>TRRS stands for  tip, ring, ring, sleeve,  which reflects that this  has three conductors and a ground.  <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/12639 >Audio Jack</a></li><li><a href="https://www.sparkfun.com/products/12968">mbed Starter Kit</a></li><li><a href= https://www.sparkfun.com/products/11570>SparkFun TRRS 3.5mm Jack Breakout</a></li></ul> 
+D Audio Jack - 3.5mm TRRS (SMD) This is a 3.5mm TRRS SMD audio jack. <br>TRRS connectors are the audio-style connectors that you see on some phones, MP3 players and development boards. <br>TRRS stands for  tip, ring, ring, sleeve,  which reflects that this  has three conductors and a ground.  <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/12639 >Audio Jack</a></li><li><a href="https://www.sparkfun.com/products/12968">mbed Starter Kit</a></li><li><a href= https://www.sparkfun.com/products/11570>SparkFun TRRS 3.5mm Jack Breakout</a></li></ul>
 K PROD_ID:CONN-10676
 $ENDCMP
 #
 $CMP AVR_SPI_PROG_3X22X3_LOCK
-D AVR ISP 6 Pin This is the reduced ISP connector for AVR programming. Common on Arduino. This footprint will take up less PCB space and can be used with a 10-pin to 6-pin adapter such as SKU: BOB-08508 <b>**Special note about "TEST_POINT" package.</b> The stop mask is on the top side, so if you want your programming test points to be on the bottom of your board, make sure to place this package on the bottom side of the board. This also ensure that the orientation to program from the bottom side will be correct. SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11591">SparkFun ISP Pogo Adapter</a> - NS</li><li><a href="https://www.sparkfun.com/products/11801">Tiny AVR Programmer</a> -PTH</li></ul> 
+D AVR ISP 6 Pin This is the reduced ISP connector for AVR programming. Common on Arduino. This footprint will take up less PCB space and can be used with a 10-pin to 6-pin adapter such as SKU: BOB-08508 <b>**Special note about "TEST_POINT" package.</b> The stop mask is on the top side, so if you want your programming test points to be on the bottom of your board, make sure to place this package on the bottom side of the board. This also ensure that the orientation to program from the bottom side will be correct. SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11591">SparkFun ISP Pogo Adapter</a> - NS</li><li><a href="https://www.sparkfun.com/products/11801">Tiny AVR Programmer</a> -PTH</li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP AVR_SPI_PROG_3X2NS
-D AVR ISP 6 Pin This is the reduced ISP connector for AVR programming. Common on Arduino. This footprint will take up less PCB space and can be used with a 10-pin to 6-pin adapter such as SKU: BOB-08508 <b>**Special note about "TEST_POINT" package.</b> The stop mask is on the top side, so if you want your programming test points to be on the bottom of your board, make sure to place this package on the bottom side of the board. This also ensure that the orientation to program from the bottom side will be correct. SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11591">SparkFun ISP Pogo Adapter</a> - NS</li><li><a href="https://www.sparkfun.com/products/11801">Tiny AVR Programmer</a> -PTH</li></ul> 
+D AVR ISP 6 Pin This is the reduced ISP connector for AVR programming. Common on Arduino. This footprint will take up less PCB space and can be used with a 10-pin to 6-pin adapter such as SKU: BOB-08508 <b>**Special note about "TEST_POINT" package.</b> The stop mask is on the top side, so if you want your programming test points to be on the bottom of your board, make sure to place this package on the bottom side of the board. This also ensure that the orientation to program from the bottom side will be correct. SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11591">SparkFun ISP Pogo Adapter</a> - NS</li><li><a href="https://www.sparkfun.com/products/11801">Tiny AVR Programmer</a> -PTH</li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP AVR_SPI_PROG_3X2OFFSET_PADS
-D AVR ISP 6 Pin This is the reduced ISP connector for AVR programming. Common on Arduino. This footprint will take up less PCB space and can be used with a 10-pin to 6-pin adapter such as SKU: BOB-08508 <b>**Special note about "TEST_POINT" package.</b> The stop mask is on the top side, so if you want your programming test points to be on the bottom of your board, make sure to place this package on the bottom side of the board. This also ensure that the orientation to program from the bottom side will be correct. SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11591">SparkFun ISP Pogo Adapter</a> - NS</li><li><a href="https://www.sparkfun.com/products/11801">Tiny AVR Programmer</a> -PTH</li></ul> 
+D AVR ISP 6 Pin This is the reduced ISP connector for AVR programming. Common on Arduino. This footprint will take up less PCB space and can be used with a 10-pin to 6-pin adapter such as SKU: BOB-08508 <b>**Special note about "TEST_POINT" package.</b> The stop mask is on the top side, so if you want your programming test points to be on the bottom of your board, make sure to place this package on the bottom side of the board. This also ensure that the orientation to program from the bottom side will be correct. SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11591">SparkFun ISP Pogo Adapter</a> - NS</li><li><a href="https://www.sparkfun.com/products/11801">Tiny AVR Programmer</a> -PTH</li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP AVR_SPI_PROG_3X2PTH
-D AVR ISP 6 Pin This is the reduced ISP connector for AVR programming. Common on Arduino. This footprint will take up less PCB space and can be used with a 10-pin to 6-pin adapter such as SKU: BOB-08508 <b>**Special note about "TEST_POINT" package.</b> The stop mask is on the top side, so if you want your programming test points to be on the bottom of your board, make sure to place this package on the bottom side of the board. This also ensure that the orientation to program from the bottom side will be correct. SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11591">SparkFun ISP Pogo Adapter</a> - NS</li><li><a href="https://www.sparkfun.com/products/11801">Tiny AVR Programmer</a> -PTH</li></ul> 
+D AVR ISP 6 Pin This is the reduced ISP connector for AVR programming. Common on Arduino. This footprint will take up less PCB space and can be used with a 10-pin to 6-pin adapter such as SKU: BOB-08508 <b>**Special note about "TEST_POINT" package.</b> The stop mask is on the top side, so if you want your programming test points to be on the bottom of your board, make sure to place this package on the bottom side of the board. This also ensure that the orientation to program from the bottom side will be correct. SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11591">SparkFun ISP Pogo Adapter</a> - NS</li><li><a href="https://www.sparkfun.com/products/11801">Tiny AVR Programmer</a> -PTH</li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP AVR_SPI_PROG_3X2TESTPOINTS
-D AVR ISP 6 Pin This is the reduced ISP connector for AVR programming. Common on Arduino. This footprint will take up less PCB space and can be used with a 10-pin to 6-pin adapter such as SKU: BOB-08508 <b>**Special note about "TEST_POINT" package.</b> The stop mask is on the top side, so if you want your programming test points to be on the bottom of your board, make sure to place this package on the bottom side of the board. This also ensure that the orientation to program from the bottom side will be correct. SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11591">SparkFun ISP Pogo Adapter</a> - NS</li><li><a href="https://www.sparkfun.com/products/11801">Tiny AVR Programmer</a> -PTH</li></ul> 
+D AVR ISP 6 Pin This is the reduced ISP connector for AVR programming. Common on Arduino. This footprint will take up less PCB space and can be used with a 10-pin to 6-pin adapter such as SKU: BOB-08508 <b>**Special note about "TEST_POINT" package.</b> The stop mask is on the top side, so if you want your programming test points to be on the bottom of your board, make sure to place this package on the bottom side of the board. This also ensure that the orientation to program from the bottom side will be correct. SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11591">SparkFun ISP Pogo Adapter</a> - NS</li><li><a href="https://www.sparkfun.com/products/11801">Tiny AVR Programmer</a> -PTH</li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP AVR_SPI_PROG_5X2LOCK
-D AVR 10-pin ICSP Header This is the standard AVR In Circuit Serial Programming header. Minimal, but includes pin one indicator. Works with standard Olimex programmers.  SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/778">2x5 AVR ICSP Male Header</a> - PTH</li><li><a href= https://www.sparkfun.com/products/8506 >2x5 Pin Shrouded Header</a> - PTH2</li></ul> 
+D AVR 10-pin ICSP Header This is the standard AVR In Circuit Serial Programming header. Minimal, but includes pin one indicator. Works with standard Olimex programmers.  SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/778">2x5 AVR ICSP Male Header</a> - PTH</li><li><a href= https://www.sparkfun.com/products/8506 >2x5 Pin Shrouded Header</a> - PTH2</li></ul>
 K PROD_ID:CONN-08671
 $ENDCMP
 #
 $CMP AVR_SPI_PROG_5X2PTH
-D AVR 10-pin ICSP Header This is the standard AVR In Circuit Serial Programming header. Minimal, but includes pin one indicator. Works with standard Olimex programmers.  SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/778">2x5 AVR ICSP Male Header</a> - PTH</li><li><a href= https://www.sparkfun.com/products/8506 >2x5 Pin Shrouded Header</a> - PTH2</li></ul> 
+D AVR 10-pin ICSP Header This is the standard AVR In Circuit Serial Programming header. Minimal, but includes pin one indicator. Works with standard Olimex programmers.  SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/778">2x5 AVR ICSP Male Header</a> - PTH</li><li><a href= https://www.sparkfun.com/products/8506 >2x5 Pin Shrouded Header</a> - PTH2</li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP AVR_SPI_PROG_5X2PTH2
-D AVR 10-pin ICSP Header This is the standard AVR In Circuit Serial Programming header. Minimal, but includes pin one indicator. Works with standard Olimex programmers.  SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/778">2x5 AVR ICSP Male Header</a> - PTH</li><li><a href= https://www.sparkfun.com/products/8506 >2x5 Pin Shrouded Header</a> - PTH2</li></ul> 
+D AVR 10-pin ICSP Header This is the standard AVR In Circuit Serial Programming header. Minimal, but includes pin one indicator. Works with standard Olimex programmers.  SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/778">2x5 AVR ICSP Male Header</a> - PTH</li><li><a href= https://www.sparkfun.com/products/8506 >2x5 Pin Shrouded Header</a> - PTH2</li></ul>
 K PROD_ID:CONN-08671
 $ENDCMP
 #
 $CMP AVR_SPI_PROG_5X2SMD
-D AVR 10-pin ICSP Header This is the standard AVR In Circuit Serial Programming header. Minimal, but includes pin one indicator. Works with standard Olimex programmers.  SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/778">2x5 AVR ICSP Male Header</a> - PTH</li><li><a href= https://www.sparkfun.com/products/8506 >2x5 Pin Shrouded Header</a> - PTH2</li></ul> 
+D AVR 10-pin ICSP Header This is the standard AVR In Circuit Serial Programming header. Minimal, but includes pin one indicator. Works with standard Olimex programmers.  SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/778">2x5 AVR ICSP Male Header</a> - PTH</li><li><a href= https://www.sparkfun.com/products/8506 >2x5 Pin Shrouded Header</a> - PTH2</li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP BANANA_CONN
-D Through-hole Banana Jack Basic PTH connection for banana jack plugs SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/retired/10956">Multimeter Kit</a></li><li><a href="https://www.sparkfun.com/products/retired/509">Banana to Alligator Cable</a></li><li><a href="https://www.sparkfun.com/products/retired/508">Banana to Alligator Coax Cable</a></li><li><a href="https://www.sparkfun.com/products/retired/507">Banana to Banana Cable</a></li><li><a href="https://www.sparkfun.com/products/retired/506">Banana to IC Hook Cables</a></li></ul> 
+D Through-hole Banana Jack Basic PTH connection for banana jack plugs SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/retired/10956">Multimeter Kit</a></li><li><a href="https://www.sparkfun.com/products/retired/509">Banana to Alligator Cable</a></li><li><a href="https://www.sparkfun.com/products/retired/508">Banana to Alligator Coax Cable</a></li><li><a href="https://www.sparkfun.com/products/retired/507">Banana to Banana Cable</a></li><li><a href="https://www.sparkfun.com/products/retired/506">Banana to IC Hook Cables</a></li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP BATTERY_CONN_DEANS
-D Battery Connectors Various footprints for battery connections SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11864">Deans Connector -M/F Pair</a></li></ul> 
+D Battery Connectors Various footprints for battery connections SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11864">Deans Connector -M/F Pair</a></li></ul>
 K PROD_ID:PRT-11864
 $ENDCMP
 #
 $CMP BC9VPC
-D 9V Battery Holder - PC Mount Standard and Kit footprints included SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11177">SparkFun SparkPunk Sound Kit</a></li><li><a href= https://www.sparkfun.com/products/12707 >SparkFun SparkPunk Sequencer Kit</a></li></ul> 
+D 9V Battery Holder - PC Mount Standard and Kit footprints included SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11177">SparkFun SparkPunk Sound Kit</a></li><li><a href= https://www.sparkfun.com/products/12707 >SparkFun SparkPunk Sequencer Kit</a></li></ul>
 K PROD_ID:BATT-10855
 $ENDCMP
 #
 $CMP BC9VPC_KIT
-D 9V Battery Holder - PC Mount Standard and Kit footprints included SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11177">SparkFun SparkPunk Sound Kit</a></li><li><a href= https://www.sparkfun.com/products/12707 >SparkFun SparkPunk Sequencer Kit</a></li></ul> 
+D 9V Battery Holder - PC Mount Standard and Kit footprints included SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/11177">SparkFun SparkPunk Sound Kit</a></li><li><a href= https://www.sparkfun.com/products/12707 >SparkFun SparkPunk Sequencer Kit</a></li></ul>
 K PROD_ID:BATT-10855
 $ENDCMP
 #
 $CMP BINDING_POST
-D Binding Post The component itself has an threaded, insulated body that goes through the board, with a small threaded metal stud coming off the back.  The intent of this package is that the post goes through a milled obling hole, and a small wire would be used to connect from the PCB pad to the metal contact on the post. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13006 >SparkFun Decade Resistance Box</a></li><li><a href= https://www.sparkfun.com/products/12867 >SparkFun Benchtop Power Board Kit</a></li><li><a href= https://www.sparkfun.com/products/9739 >Binding Post - Red</a></li><li><a href= https://www.sparkfun.com/products/9740 >Binding Post - Black</a></li></ul> 
+D Binding Post The component itself has an threaded, insulated body that goes through the board, with a small threaded metal stud coming off the back.  The intent of this package is that the post goes through a milled obling hole, and a small wire would be used to connect from the PCB pad to the metal contact on the post. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13006 >SparkFun Decade Resistance Box</a></li><li><a href= https://www.sparkfun.com/products/12867 >SparkFun Benchtop Power Board Kit</a></li><li><a href= https://www.sparkfun.com/products/9739 >Binding Post - Red</a></li><li><a href= https://www.sparkfun.com/products/9740 >Binding Post - Black</a></li></ul>
 K PROD_ID:CONN-09675
 $ENDCMP
 #
 $CMP BNCPTH
-D BNC Right Angle Connector Mouser Part# 5227161 <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/10550 >BNC Connector - Right Angle</a></li></ul> 
+D BNC Right Angle Connector Mouser Part# 5227161 <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/10550 >BNC Connector - Right Angle</a></li></ul>
 K PROD_ID:LPA-12729
 $ENDCMP
 #
@@ -1341,12 +1341,12 @@ K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP CORTEX_DEBUG_PTH
-D Cortex Debug Connector - 10 pin Supports JTAG debug, Serial Wire debug, and Serial Wire Viewer.PTH and SMD connector options available.  <ul><a href= http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf >General Connector Information</a><b> Products:</b><ul><li><a href= http://www.digikey.com/product-detail/en/cnc-tech/3220-10-0100-00/1175-1627-ND/3883661 >PTH Connector</a> -via Digi-Key</li><li><a href= https://www.sparkfun.com/products/13229 >SparkFun PSoc</a></li><li><a href= https://www.sparkfun.com/products/13810 >SparkFun T</a></li></ul> 
+D Cortex Debug Connector - 10 pin Supports JTAG debug, Serial Wire debug, and Serial Wire Viewer.PTH and SMD connector options available.  <ul><a href= http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf >General Connector Information</a><b> Products:</b><ul><li><a href= http://www.digikey.com/product-detail/en/cnc-tech/3220-10-0100-00/1175-1627-ND/3883661 >PTH Connector</a> -via Digi-Key</li><li><a href= https://www.sparkfun.com/products/13229 >SparkFun PSoc</a></li><li><a href= https://www.sparkfun.com/products/13810 >SparkFun T</a></li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP CORTEX_DEBUG_SMD
-D Cortex Debug Connector - 10 pin Supports JTAG debug, Serial Wire debug, and Serial Wire Viewer.PTH and SMD connector options available.  <ul><a href= http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf >General Connector Information</a><b> Products:</b><ul><li><a href= http://www.digikey.com/product-detail/en/cnc-tech/3220-10-0100-00/1175-1627-ND/3883661 >PTH Connector</a> -via Digi-Key</li><li><a href= https://www.sparkfun.com/products/13229 >SparkFun PSoc</a></li><li><a href= https://www.sparkfun.com/products/13810 >SparkFun T</a></li></ul> 
+D Cortex Debug Connector - 10 pin Supports JTAG debug, Serial Wire debug, and Serial Wire Viewer.PTH and SMD connector options available.  <ul><a href= http://infocenter.arm.com/help/topic/com.arm.doc.faqs/attached/13634/cortex_debug_connectors.pdf >General Connector Information</a><b> Products:</b><ul><li><a href= http://www.digikey.com/product-detail/en/cnc-tech/3220-10-0100-00/1175-1627-ND/3883661 >PTH Connector</a> -via Digi-Key</li><li><a href= https://www.sparkfun.com/products/13229 >SparkFun PSoc</a></li><li><a href= https://www.sparkfun.com/products/13810 >SparkFun T</a></li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
@@ -1381,17 +1381,17 @@ K PROD_ID:CONN-08435
 $ENDCMP
 #
 $CMP EDISON_CONNECTOR_FULL_HEADER
-D Intel &reg; Edison Hirose Connectors  DF40 Series 70 pin connector 3mm headers and sockets used on the SparkFun Edison Blocks.Edison Daughter package includes layout for the Edison module itself, including mounting holes and antenna area marked. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13770 >SparkFun ADC Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13727 >SparkFun Power Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13045 >SparkFun Base Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13043 >SparkFun Dual H-Bridge Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13041 >SparkFun microSD Edison Block</a></li></ul> 
+D Intel &reg; Edison Hirose Connectors  DF40 Series 70 pin connector 3mm headers and sockets used on the SparkFun Edison Blocks.Edison Daughter package includes layout for the Edison module itself, including mounting holes and antenna area marked. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13770 >SparkFun ADC Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13727 >SparkFun Power Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13045 >SparkFun Base Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13043 >SparkFun Dual H-Bridge Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13041 >SparkFun microSD Edison Block</a></li></ul>
 K PROD_ID:CONN-12248
 $ENDCMP
 #
 $CMP EDISON_CONNECTOR_FULL_MOUNTING_HOLES
-D Intel &reg; Edison Hirose Connectors  DF40 Series 70 pin connector 3mm headers and sockets used on the SparkFun Edison Blocks.Edison Daughter package includes layout for the Edison module itself, including mounting holes and antenna area marked. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13770 >SparkFun ADC Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13727 >SparkFun Power Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13045 >SparkFun Base Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13043 >SparkFun Dual H-Bridge Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13041 >SparkFun microSD Edison Block</a></li></ul> 
+D Intel &reg; Edison Hirose Connectors  DF40 Series 70 pin connector 3mm headers and sockets used on the SparkFun Edison Blocks.Edison Daughter package includes layout for the Edison module itself, including mounting holes and antenna area marked. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13770 >SparkFun ADC Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13727 >SparkFun Power Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13045 >SparkFun Base Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13043 >SparkFun Dual H-Bridge Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13041 >SparkFun microSD Edison Block</a></li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP EDISON_CONNECTOR_FULL_SOCKET
-D Intel &reg; Edison Hirose Connectors  DF40 Series 70 pin connector 3mm headers and sockets used on the SparkFun Edison Blocks.Edison Daughter package includes layout for the Edison module itself, including mounting holes and antenna area marked. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13770 >SparkFun ADC Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13727 >SparkFun Power Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13045 >SparkFun Base Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13043 >SparkFun Dual H-Bridge Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13041 >SparkFun microSD Edison Block</a></li></ul> 
+D Intel &reg; Edison Hirose Connectors  DF40 Series 70 pin connector 3mm headers and sockets used on the SparkFun Edison Blocks.Edison Daughter package includes layout for the Edison module itself, including mounting holes and antenna area marked. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13770 >SparkFun ADC Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13727 >SparkFun Power Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13045 >SparkFun Base Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13043 >SparkFun Dual H-Bridge Edison Block</a></li><li><a href= https://www.sparkfun.com/products/13041 >SparkFun microSD Edison Block</a></li></ul>
 K PROD_ID:CONN-12247
 $ENDCMP
 #
@@ -1406,17 +1406,17 @@ K PROD_ID:CONN-08528
 $ENDCMP
 #
 $CMP I2C_STANDARD
-D SparkFun I<sup>2</sup>C Standard Pinout Header SparkFun has standardized on a pinout for all I<sup>2</sup>C based sensor breakouts.<br><br>This pinout allows I<sup>2</sup>C boards to be plugged directly into the headers on Arduino Uno compatible boards, andto be daisy chained easily. <b>Example SparkFun Products:</b><ul><li><a href="https://www.sparkfun.com/products/13676">SparkFun Atmospheric Sensor Breakout - BME280</a></li><li><a href= https://www.sparkfun.com/products/11084 >SparkFun Altitude/Pressure Sensor Breakout - MPL3115A2</a></li><li><a href= https://www.sparkfun.com/products/12785 >SparkFun TOF Range Finder Sensor - VL6180</a></li></ul> 
+D SparkFun I<sup>2</sup>C Standard Pinout Header SparkFun has standardized on a pinout for all I<sup>2</sup>C based sensor breakouts.<br><br>This pinout allows I<sup>2</sup>C boards to be plugged directly into the headers on Arduino Uno compatible boards, andto be daisy chained easily. <b>Example SparkFun Products:</b><ul><li><a href="https://www.sparkfun.com/products/13676">SparkFun Atmospheric Sensor Breakout - BME280</a></li><li><a href= https://www.sparkfun.com/products/11084 >SparkFun Altitude/Pressure Sensor Breakout - MPL3115A2</a></li><li><a href= https://www.sparkfun.com/products/12785 >SparkFun TOF Range Finder Sensor - VL6180</a></li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP I2C_STANDARDQWIIC
-D SparkFun I<sup>2</sup>C Standard Pinout Header SparkFun has standardized on a pinout for all I<sup>2</sup>C based sensor breakouts.<br><br>This pinout allows I<sup>2</sup>C boards to be plugged directly into the headers on Arduino Uno compatible boards, andto be daisy chained easily. <b>Example SparkFun Products:</b><ul><li><a href="https://www.sparkfun.com/products/13676">SparkFun Atmospheric Sensor Breakout - BME280</a></li><li><a href= https://www.sparkfun.com/products/11084 >SparkFun Altitude/Pressure Sensor Breakout - MPL3115A2</a></li><li><a href= https://www.sparkfun.com/products/12785 >SparkFun TOF Range Finder Sensor - VL6180</a></li></ul> 
+D SparkFun I<sup>2</sup>C Standard Pinout Header SparkFun has standardized on a pinout for all I<sup>2</sup>C based sensor breakouts.<br><br>This pinout allows I<sup>2</sup>C boards to be plugged directly into the headers on Arduino Uno compatible boards, andto be daisy chained easily. <b>Example SparkFun Products:</b><ul><li><a href="https://www.sparkfun.com/products/13676">SparkFun Atmospheric Sensor Breakout - BME280</a></li><li><a href= https://www.sparkfun.com/products/11084 >SparkFun Altitude/Pressure Sensor Breakout - MPL3115A2</a></li><li><a href= https://www.sparkfun.com/products/12785 >SparkFun TOF Range Finder Sensor - VL6180</a></li></ul>
 K PROD_ID:CONN-13729
 $ENDCMP
 #
 $CMP I2C_STANDARD_NO_SILK
-D SparkFun I<sup>2</sup>C Standard Pinout Header SparkFun has standardized on a pinout for all I<sup>2</sup>C based sensor breakouts.<br><br>This pinout allows I<sup>2</sup>C boards to be plugged directly into the headers on Arduino Uno compatible boards, andto be daisy chained easily. <b>Example SparkFun Products:</b><ul><li><a href="https://www.sparkfun.com/products/13676">SparkFun Atmospheric Sensor Breakout - BME280</a></li><li><a href= https://www.sparkfun.com/products/11084 >SparkFun Altitude/Pressure Sensor Breakout - MPL3115A2</a></li><li><a href= https://www.sparkfun.com/products/12785 >SparkFun TOF Range Finder Sensor - VL6180</a></li></ul> 
+D SparkFun I<sup>2</sup>C Standard Pinout Header SparkFun has standardized on a pinout for all I<sup>2</sup>C based sensor breakouts.<br><br>This pinout allows I<sup>2</sup>C boards to be plugged directly into the headers on Arduino Uno compatible boards, andto be daisy chained easily. <b>Example SparkFun Products:</b><ul><li><a href="https://www.sparkfun.com/products/13676">SparkFun Atmospheric Sensor Breakout - BME280</a></li><li><a href= https://www.sparkfun.com/products/11084 >SparkFun Altitude/Pressure Sensor Breakout - MPL3115A2</a></li><li><a href= https://www.sparkfun.com/products/12785 >SparkFun TOF Range Finder Sensor - VL6180</a></li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
@@ -1441,7 +1441,7 @@ K PROD_ID:CONN-10659
 $ENDCMP
 #
 $CMP MICRO-SD_CARD_SOCKET
-D microSD Socket for Transflash Push-push type uSD socket.  tDoc lines correctly indicate media card edge positions when inserting (unlocked, locked, depressed).<br><br><b>NOTE:</b> CD1 and CD2 are connected internally, and the default detect state of the socket is detect pin to ground. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13660 >WAV Trigger</a></li><li><a href= https://www.sparkfun.com/products/13262 >CAN-Bus Shield</a></li><li><a href= https://www.sparkfun.com/products/13743 >SparkFun Level Shifing microSD Breakout</a></li></ul> 
+D microSD Socket for Transflash Push-push type uSD socket.  tDoc lines correctly indicate media card edge positions when inserting (unlocked, locked, depressed).<br><br><b>NOTE:</b> CD1 and CD2 are connected internally, and the default detect state of the socket is detect pin to ground. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13660 >WAV Trigger</a></li><li><a href= https://www.sparkfun.com/products/13262 >CAN-Bus Shield</a></li><li><a href= https://www.sparkfun.com/products/13743 >SparkFun Level Shifing microSD Breakout</a></li></ul>
 K PROD_ID:CONN-07820
 $ENDCMP
 #
@@ -1526,17 +1526,17 @@ K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP RASPBERRYPI-40-PIN-GPIO_PTH
-D Raspberry Pi GPIO Header 2x20 pin connector, as found on B, B+, A+ models. Both shrouded PTH and SMT versions available. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13054 >GPIO Shrouded Header</a>- PTH</li><li><a href= https://www.sparkfun.com/products/13717 >SparkFun Pi Wedge (Preassembled)</a></li></ul> 
+D Raspberry Pi GPIO Header 2x20 pin connector, as found on B, B+, A+ models. Both shrouded PTH and SMT versions available. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13054 >GPIO Shrouded Header</a>- PTH</li><li><a href= https://www.sparkfun.com/products/13717 >SparkFun Pi Wedge (Preassembled)</a></li></ul>
 K PROD_ID:CONN-12263
 $ENDCMP
 #
 $CMP RASPBERRYPI-40-PIN-GPIO_PTH_NO_SHROUD
-D Raspberry Pi GPIO Header 2x20 pin connector, as found on B, B+, A+ models. Both shrouded PTH and SMT versions available. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13054 >GPIO Shrouded Header</a>- PTH</li><li><a href= https://www.sparkfun.com/products/13717 >SparkFun Pi Wedge (Preassembled)</a></li></ul> 
+D Raspberry Pi GPIO Header 2x20 pin connector, as found on B, B+, A+ models. Both shrouded PTH and SMT versions available. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13054 >GPIO Shrouded Header</a>- PTH</li><li><a href= https://www.sparkfun.com/products/13717 >SparkFun Pi Wedge (Preassembled)</a></li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP RASPBERRYPI-40-PIN-GPIO_SMT
-D Raspberry Pi GPIO Header 2x20 pin connector, as found on B, B+, A+ models. Both shrouded PTH and SMT versions available. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13054 >GPIO Shrouded Header</a>- PTH</li><li><a href= https://www.sparkfun.com/products/13717 >SparkFun Pi Wedge (Preassembled)</a></li></ul> 
+D Raspberry Pi GPIO Header 2x20 pin connector, as found on B, B+, A+ models. Both shrouded PTH and SMT versions available. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13054 >GPIO Shrouded Header</a>- PTH</li><li><a href= https://www.sparkfun.com/products/13717 >SparkFun Pi Wedge (Preassembled)</a></li></ul>
 K PROD_ID:CONN-13143
 $ENDCMP
 #
@@ -1571,107 +1571,107 @@ K PROD_ID:CONN-11976
 $ENDCMP
 #
 $CMP SIMHOLDERSIM
-D SIM Cellular Card Socket SMT 6 pin standard connection.  <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/548 >SIM Socket</a></li><li><a href="https://www.sparkfun.com/products/13120">SparkFun Cellular Shield - MG2639</a></li><li><a href= https://www.sparkfun.com/products/573 >SparkFun SIM Card Socket Breakout</a></li></ul> 
+D SIM Cellular Card Socket SMT 6 pin standard connection.  <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/548 >SIM Socket</a></li><li><a href="https://www.sparkfun.com/products/13120">SparkFun Cellular Shield - MG2639</a></li><li><a href= https://www.sparkfun.com/products/573 >SparkFun SIM Card Socket Breakout</a></li></ul>
 K PROD_ID:CONN-08536
 $ENDCMP
 #
 $CMP TEST-POINT2
-D SparkFun Test Points Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13284 >SparkFun LSM9DS1 Breakout</a></li><li><a href= https://www.sparkfun.com/products/13714 >SparkFun PSOC</a></li><li><a href="https://www.sparkfun.com/products/13879">SparkFun Load Cell Amplifier</a></li></ul> 
+D SparkFun Test Points Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13284 >SparkFun LSM9DS1 Breakout</a></li><li><a href= https://www.sparkfun.com/products/13714 >SparkFun PSOC</a></li><li><a href="https://www.sparkfun.com/products/13879">SparkFun Load Cell Amplifier</a></li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP TEST-POINT3
-D SparkFun Test Points Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13284 >SparkFun LSM9DS1 Breakout</a></li><li><a href= https://www.sparkfun.com/products/13714 >SparkFun PSOC</a></li><li><a href="https://www.sparkfun.com/products/13879">SparkFun Load Cell Amplifier</a></li></ul> 
+D SparkFun Test Points Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13284 >SparkFun LSM9DS1 Breakout</a></li><li><a href= https://www.sparkfun.com/products/13714 >SparkFun PSOC</a></li><li><a href="https://www.sparkfun.com/products/13879">SparkFun Load Cell Amplifier</a></li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP TEST-POINT3X4
-D SparkFun Test Points Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13284 >SparkFun LSM9DS1 Breakout</a></li><li><a href= https://www.sparkfun.com/products/13714 >SparkFun PSOC</a></li><li><a href="https://www.sparkfun.com/products/13879">SparkFun Load Cell Amplifier</a></li></ul> 
+D SparkFun Test Points Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13284 >SparkFun LSM9DS1 Breakout</a></li><li><a href= https://www.sparkfun.com/products/13714 >SparkFun PSOC</a></li><li><a href="https://www.sparkfun.com/products/13879">SparkFun Load Cell Amplifier</a></li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP TEST-POINT3X5
-D SparkFun Test Points Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13284 >SparkFun LSM9DS1 Breakout</a></li><li><a href= https://www.sparkfun.com/products/13714 >SparkFun PSOC</a></li><li><a href="https://www.sparkfun.com/products/13879">SparkFun Load Cell Amplifier</a></li></ul> 
+D SparkFun Test Points Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13284 >SparkFun LSM9DS1 Breakout</a></li><li><a href= https://www.sparkfun.com/products/13714 >SparkFun PSOC</a></li><li><a href="https://www.sparkfun.com/products/13879">SparkFun Load Cell Amplifier</a></li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP TEST-POINTTP_15TH_THRU
-D SparkFun Test Points Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13284 >SparkFun LSM9DS1 Breakout</a></li><li><a href= https://www.sparkfun.com/products/13714 >SparkFun PSOC</a></li><li><a href="https://www.sparkfun.com/products/13879">SparkFun Load Cell Amplifier</a></li></ul> 
+D SparkFun Test Points Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds. <b>SparkFun Products:</b><ul><li><a href= https://www.sparkfun.com/products/13284 >SparkFun LSM9DS1 Breakout</a></li><li><a href= https://www.sparkfun.com/products/13714 >SparkFun PSOC</a></li><li><a href="https://www.sparkfun.com/products/13879">SparkFun Load Cell Amplifier</a></li></ul>
 K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP U.FL
-D SMD Antenna Connector - U.FL 2mm height, 3.0mm x 3.0mm receptacle size.  <b>SparkFun Products:</b><ul><li><a href="https://www.sparkfun.com/products/13287">SparkFun WiFi Shield - ESP8266</a></li><li><a href= https://www.sparkfun.com/products/13231 >SparkFun ESP8266 Thing</a></li><li><a href= https://www.sparkfun.com/products/11420 >SparkFun MiniGen - Pro Mini Signal Generator Shield</a></li></ul> 
+D SMD Antenna Connector - U.FL 2mm height, 3.0mm x 3.0mm receptacle size.  <b>SparkFun Products:</b><ul><li><a href="https://www.sparkfun.com/products/13287">SparkFun WiFi Shield - ESP8266</a></li><li><a href= https://www.sparkfun.com/products/13231 >SparkFun ESP8266 Thing</a></li><li><a href= https://www.sparkfun.com/products/11420 >SparkFun MiniGen - Pro Mini Signal Generator Shield</a></li></ul>
 K PROD_ID:CONN-09193
 $ENDCMP
 #
 $CMP U.FL2PIN
-D SMD Antenna Connector - U.FL 2mm height, 3.0mm x 3.0mm receptacle size.  <b>SparkFun Products:</b><ul><li><a href="https://www.sparkfun.com/products/13287">SparkFun WiFi Shield - ESP8266</a></li><li><a href= https://www.sparkfun.com/products/13231 >SparkFun ESP8266 Thing</a></li><li><a href= https://www.sparkfun.com/products/11420 >SparkFun MiniGen - Pro Mini Signal Generator Shield</a></li></ul> 
+D SMD Antenna Connector - U.FL 2mm height, 3.0mm x 3.0mm receptacle size.  <b>SparkFun Products:</b><ul><li><a href="https://www.sparkfun.com/products/13287">SparkFun WiFi Shield - ESP8266</a></li><li><a href= https://www.sparkfun.com/products/13231 >SparkFun ESP8266 Thing</a></li><li><a href= https://www.sparkfun.com/products/11420 >SparkFun MiniGen - Pro Mini Signal Generator Shield</a></li></ul>
 K PROD_ID:CONN-09193
 $ENDCMP
 #
 $CMP USB_AB_SMT
-D USB Type AB Micro Connector OTG-compatible. 5 pins, 3 shield pins SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/13613 >IOIO-OTG</a></li><li><a href= https://www.sparkfun.com/products/13664 >SparkFun SAMD21 Mini Breakout</a></li></ul> 
+D USB Type AB Micro Connector OTG-compatible. 5 pins, 3 shield pins SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/13613 >IOIO-OTG</a></li><li><a href= https://www.sparkfun.com/products/13664 >SparkFun SAMD21 Mini Breakout</a></li></ul>
 K PROD_ID:CONN-11794
 $ENDCMP
 #
 $CMP USB_A_PTH_MALE
-D USB-A Connector Male and female variants, as well as PTH and SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/11697 >SparkFun XBee Explorer Dongle</a> PTH Male</li><li><a href= https://www.sparkfun.com/products/12924 >SparkFun MicroView-USB Programmer</a> SMT Male</li><li><a href= https://www.sparkfun.com/products/12700 >SparkFun USB Type A Female Breakout</a> SMT Female</li></ul> 
+D USB-A Connector Male and female variants, as well as PTH and SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/11697 >SparkFun XBee Explorer Dongle</a> PTH Male</li><li><a href= https://www.sparkfun.com/products/12924 >SparkFun MicroView-USB Programmer</a> SMT Male</li><li><a href= https://www.sparkfun.com/products/12700 >SparkFun USB Type A Female Breakout</a> SMT Female</li></ul>
 K PROD_ID:CONN-08367
 $ENDCMP
 #
 $CMP USB_A_SMT_FEMALE
-D USB-A Connector Male and female variants, as well as PTH and SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/11697 >SparkFun XBee Explorer Dongle</a> PTH Male</li><li><a href= https://www.sparkfun.com/products/12924 >SparkFun MicroView-USB Programmer</a> SMT Male</li><li><a href= https://www.sparkfun.com/products/12700 >SparkFun USB Type A Female Breakout</a> SMT Female</li></ul> 
+D USB-A Connector Male and female variants, as well as PTH and SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/11697 >SparkFun XBee Explorer Dongle</a> PTH Male</li><li><a href= https://www.sparkfun.com/products/12924 >SparkFun MicroView-USB Programmer</a> SMT Male</li><li><a href= https://www.sparkfun.com/products/12700 >SparkFun USB Type A Female Breakout</a> SMT Female</li></ul>
 K PROD_ID:CONN-09520
 $ENDCMP
 #
 $CMP USB_A_SMT_FEMALE_NS
-D USB-A Connector Male and female variants, as well as PTH and SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/11697 >SparkFun XBee Explorer Dongle</a> PTH Male</li><li><a href= https://www.sparkfun.com/products/12924 >SparkFun MicroView-USB Programmer</a> SMT Male</li><li><a href= https://www.sparkfun.com/products/12700 >SparkFun USB Type A Female Breakout</a> SMT Female</li></ul> 
+D USB-A Connector Male and female variants, as well as PTH and SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/11697 >SparkFun XBee Explorer Dongle</a> PTH Male</li><li><a href= https://www.sparkfun.com/products/12924 >SparkFun MicroView-USB Programmer</a> SMT Male</li><li><a href= https://www.sparkfun.com/products/12700 >SparkFun USB Type A Female Breakout</a> SMT Female</li></ul>
 K PROD_ID:CONN-09520
 $ENDCMP
 #
 $CMP USB_A_SMT_MALE
-D USB-A Connector Male and female variants, as well as PTH and SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/11697 >SparkFun XBee Explorer Dongle</a> PTH Male</li><li><a href= https://www.sparkfun.com/products/12924 >SparkFun MicroView-USB Programmer</a> SMT Male</li><li><a href= https://www.sparkfun.com/products/12700 >SparkFun USB Type A Female Breakout</a> SMT Female</li></ul> 
+D USB-A Connector Male and female variants, as well as PTH and SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/11697 >SparkFun XBee Explorer Dongle</a> PTH Male</li><li><a href= https://www.sparkfun.com/products/12924 >SparkFun MicroView-USB Programmer</a> SMT Male</li><li><a href= https://www.sparkfun.com/products/12700 >SparkFun USB Type A Female Breakout</a> SMT Female</li></ul>
 K PROD_ID:CONN-11499
 $ENDCMP
 #
 $CMP USB_B_PTH
-D USB Type B Connector  SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/13899 >SparkFun Stepoko</a> PTH</li></ul> 
+D USB Type B Connector  SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/13899 >SparkFun Stepoko</a> PTH</li></ul>
 K PROD_ID:CONN-08278
 $ENDCMP
 #
 $CMP USB_MICRO-BREDUCED_PASTE
-D USB Type Micro-B Connector Male/female and PTH/SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/12035 >SparkFun microB USB Breakout</a></li><li><a href= https://www.sparkfun.com/products/10031 >SparkFun USB microB Plug Breakout</a></li><li><a href= https://www.sparkfun.com/products/13231 >SparkFun ESP8266 Thing</a></li></ul> 
+D USB Type Micro-B Connector Male/female and PTH/SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/12035 >SparkFun microB USB Breakout</a></li><li><a href= https://www.sparkfun.com/products/10031 >SparkFun USB microB Plug Breakout</a></li><li><a href= https://www.sparkfun.com/products/13231 >SparkFun ESP8266 Thing</a></li></ul>
 K PROD_ID:CONN-11752
 $ENDCMP
 #
 $CMP USB_MICRO-B_FEMALE-SMT
-D USB Type Micro-B Connector Male/female and PTH/SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/12035 >SparkFun microB USB Breakout</a></li><li><a href= https://www.sparkfun.com/products/10031 >SparkFun USB microB Plug Breakout</a></li><li><a href= https://www.sparkfun.com/products/13231 >SparkFun ESP8266 Thing</a></li></ul> 
+D USB Type Micro-B Connector Male/female and PTH/SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/12035 >SparkFun microB USB Breakout</a></li><li><a href= https://www.sparkfun.com/products/10031 >SparkFun USB microB Plug Breakout</a></li><li><a href= https://www.sparkfun.com/products/13231 >SparkFun ESP8266 Thing</a></li></ul>
 K PROD_ID:CONN-11752
 $ENDCMP
 #
 $CMP USB_MICRO-B_HALF_PTH
-D USB Type Micro-B Connector Male/female and PTH/SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/12035 >SparkFun microB USB Breakout</a></li><li><a href= https://www.sparkfun.com/products/10031 >SparkFun USB microB Plug Breakout</a></li><li><a href= https://www.sparkfun.com/products/13231 >SparkFun ESP8266 Thing</a></li></ul> 
+D USB Type Micro-B Connector Male/female and PTH/SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/12035 >SparkFun microB USB Breakout</a></li><li><a href= https://www.sparkfun.com/products/10031 >SparkFun USB microB Plug Breakout</a></li><li><a href= https://www.sparkfun.com/products/13231 >SparkFun ESP8266 Thing</a></li></ul>
 K PROD_ID:CONN-13711
 $ENDCMP
 #
 $CMP USB_MICRO-B_MALE-VERT
-D USB Type Micro-B Connector Male/female and PTH/SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/12035 >SparkFun microB USB Breakout</a></li><li><a href= https://www.sparkfun.com/products/10031 >SparkFun USB microB Plug Breakout</a></li><li><a href= https://www.sparkfun.com/products/13231 >SparkFun ESP8266 Thing</a></li></ul> 
+D USB Type Micro-B Connector Male/female and PTH/SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/12035 >SparkFun microB USB Breakout</a></li><li><a href= https://www.sparkfun.com/products/10031 >SparkFun USB microB Plug Breakout</a></li><li><a href= https://www.sparkfun.com/products/13231 >SparkFun ESP8266 Thing</a></li></ul>
 K PROD_ID:CONN-09900
 $ENDCMP
 #
 $CMP USB_MICRO-B_SMT
-D USB Type Micro-B Connector Male/female and PTH/SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/12035 >SparkFun microB USB Breakout</a></li><li><a href= https://www.sparkfun.com/products/10031 >SparkFun USB microB Plug Breakout</a></li><li><a href= https://www.sparkfun.com/products/13231 >SparkFun ESP8266 Thing</a></li></ul> 
+D USB Type Micro-B Connector Male/female and PTH/SMT variants SparkFun Products:<ul><li><a href= https://www.sparkfun.com/products/12035 >SparkFun microB USB Breakout</a></li><li><a href= https://www.sparkfun.com/products/10031 >SparkFun USB microB Plug Breakout</a></li><li><a href= https://www.sparkfun.com/products/13231 >SparkFun ESP8266 Thing</a></li></ul>
 K PROD_ID:CONN-09505
 $ENDCMP
 #
 $CMP USB_MINI-B_SMT
-D USB type Mini-B Connector Breaks out 5th pin, and includes shield pins if needed. SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/9716 >SparkFun FTDI Basic Breakout</a></li><li><a href="https://www.sparkfun.com/products/11812 >SparkFun XBee Explorer USB</a></li><li><a href= https://www.sparkfun.com/products/12757 >SparkFun Redboard</a></li></ul> 
+D USB type Mini-B Connector Breaks out 5th pin, and includes shield pins if needed. SparkFun Products:<ul><li><a href="https://www.sparkfun.com/products/9716 >SparkFun FTDI Basic Breakout</a></li><li><a href="https://www.sparkfun.com/products/11812 >SparkFun XBee Explorer USB</a></li><li><a href= https://www.sparkfun.com/products/12757 >SparkFun Redboard</a></li></ul>
 K PROD_ID:CONN-08193
 $ENDCMP
 #
 $CMP VERNIER_ANALOG
-D British Telecom Connector - BTA (female) This device is useful when designing a project that uses any of the analog sensors in the Vernier ecosystem (sensors and/or controllers) <b>SparkFun Products:</b><ul><li><a href="https://www.sparkfun.com/products/12858"> SparkFun Vernier Interface Shield</a> (DEV-12858)</li><li><a href= https://www.sparkfun.com/products/12753 >British Telecom Connector - BTA (female)</a></li></ul> 
+D British Telecom Connector - BTA (female) This device is useful when designing a project that uses any of the analog sensors in the Vernier ecosystem (sensors and/or controllers) <b>SparkFun Products:</b><ul><li><a href="https://www.sparkfun.com/products/12858"> SparkFun Vernier Interface Shield</a> (DEV-12858)</li><li><a href= https://www.sparkfun.com/products/12753 >British Telecom Connector - BTA (female)</a></li></ul>
 K PROD_ID:CONN-11653
 $ENDCMP
 #

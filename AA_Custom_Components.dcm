@@ -1,8 +1,43 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP DG01D_E_HOBBY_MOTOR
+D Hobby Motor with Encoder - Metal Gear - DG01D-E
+F https://cdn.sparkfun.com/assets/8/3/b/e/4/DS-16413-DG01D-E_Motor_with_Encoder.pdf
+$ENDCMP
+#
+$CMP L298N_BREAKOUT
+D Dual full bridge motor driver, up to 35V
+K H-bridge motor driver
+$ENDCMP
+#
+$CMP LM2596_ADJ_BUCK
+D Adjustable Buck Converter
+K Step-Down Voltage Regulator Buck Converter
+F http://www.ti.com/lit/ds/symlink/lm2596.pdf
+$ENDCMP
+#
+$CMP MPU6050_IMU
+D MPU6050 IMU Breakout board
+K MPU6050
+$ENDCMP
+#
 $CMP SN74HCT245N
 D Octal Bus Transceivers With 3-State Outputs
 F http://www.ti.com/lit/gpn/sn74hct245
+$ENDCMP
+#
+$CMP SSD1306_OLED
+K PROD_ID:XXX-00000
+$ENDCMP
+#
+$CMP TCA9548A_I2C_MUX
+K PROD_ID:XXX-00000
+F https://cdn-learn.adafruit.com/downloads/pdf/adafruit-tca9548a-1-to-8-i2c-multiplexer-breakout.pdf
+$ENDCMP
+#
+$CMP TCS34725_COLOR_SENSOR
+K PROD_ID:XXX-00000
+F https://cdn-learn.adafruit.com/downloads/pdf/adafruit-color-sensors.pdf
 $ENDCMP
 #
 #End Doc Library
