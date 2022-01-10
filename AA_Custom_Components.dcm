@@ -1,8 +1,18 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BUTTON_BREAKOUT
+D Adjustable Buck Converter
+K Step-Down Voltage Regulator Buck Converter
+F http://www.ti.com/lit/ds/symlink/lm2596.pdf
+$ENDCMP
+#
 $CMP DG01D_E_HOBBY_MOTOR
 D Hobby Motor with Encoder - Metal Gear - DG01D-E
 F https://cdn.sparkfun.com/assets/8/3/b/e/4/DS-16413-DG01D-E_Motor_with_Encoder.pdf
+$ENDCMP
+#
+$CMP JOYSTICK_BREAKOUT
+K PROD_ID:XXX-00000
 $ENDCMP
 #
 $CMP L298N_BREAKOUT
