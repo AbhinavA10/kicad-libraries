@@ -11,6 +11,10 @@ D Hobby Motor with Encoder - Metal Gear - DG01D-E
 F https://cdn.sparkfun.com/assets/8/3/b/e/4/DS-16413-DG01D-E_Motor_with_Encoder.pdf
 $ENDCMP
 #
+$CMP HC-05_BLUETOOTH
+K PROD_ID:XXX-00000
+$ENDCMP
+#
 $CMP JOYSTICK_BREAKOUT
 K PROD_ID:XXX-00000
 $ENDCMP
