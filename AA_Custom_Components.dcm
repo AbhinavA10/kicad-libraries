@@ -1,5 +1,14 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP GND
+D Ground Supply (Earth Ground style) Ground supply with a traditional "earth ground" symbol.
+K PROD_ID:XXX-00000
+$ENDCMP
+#
+$CMP R
+F ~
+$ENDCMP
+#
 $CMP TBD62783A
 D 8-Channel Source Type Transistor Array, TTL and CMOS compatible, 500mA, 50V, DIP-18/SOP
 $ENDCMP
