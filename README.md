@@ -2,16 +2,21 @@
 Collection of KiCad Libraries
 
 ## Installation Instructions
-- Install KiCad 5.1
+- Install KiCad 6.0
 - clone this repo to your `Documents` folder.
 - Open KiCad -> Preferences -> Manage Symbol Libraries
 - In the Global Libraries page, add `.lib` files to KiCAD
-    - `AA_Custom_Components.lib`
-    - `myelin-kicad.lib`
-    - `./digikey-kicad-library/digikey-symbols/*`
     - `./digikey-kicad-library/digikey-symbols/*`
     - `./sparkfun-kicad-library/Libraries/*`
-
+    - `myelin-kicad.lib`
+    - `AA_Custom_Components.kicad_sym`
+        - (For KiCad 5.0, use `AA_Custom_Components.lib`)
+- Open KiCad -> Preferences -> Manage Footprint Libraries
+- In the Global Libraries page, add `.lib` files to KiCAD
+    - `./digikey-kicad-library/digikey-footprints.pretty`
+    - `./sparkfun-kicad-library/Footprints/*`
+    - `myelin-kicad.lib`
+    - `AA_Custom_Components.pretty`
 
 ## Sources
 - `myelin-kicad.lib` is from [here](https://github.com/myelin/myelin-kicad-libraries)
