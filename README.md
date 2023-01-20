@@ -17,6 +17,10 @@ Collection of KiCad Libraries
     - `./sparkfun-kicad-library/Footprints/*`
     - `myelin-kicad.lib`
     - `AA_Custom_Components.pretty`
+- In KiCad’s `Plugin and Content Manager`, install the `KiBuzzard Plugin`
+- Open KiCad -> Perferences -> Configure Paths
+    - Add the following Environment Variable:
+        - Name: `AA_CUSTOM_3DMODELS_DIR`, Path: `<location of kicad-libraries repo>\3dmodels`
 
 ## Sources
 - `myelin-kicad.lib` is from [here](https://github.com/myelin/myelin-kicad-libraries)
