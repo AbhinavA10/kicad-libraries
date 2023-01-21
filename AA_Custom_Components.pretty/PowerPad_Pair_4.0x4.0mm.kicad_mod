@@ -1,6 +1,6 @@
 (footprint "PowerPad_Pair_4.0x4.0mm" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 63CB52FD)
+  (tedit 63CBBCCB)
   (descr "SMD rectangular pad as solderable power pads, square 4.0mm side length each")
   (tags "SMD pad rectangle square power")
   (attr smd exclude_from_pos_files exclude_from_bom)
