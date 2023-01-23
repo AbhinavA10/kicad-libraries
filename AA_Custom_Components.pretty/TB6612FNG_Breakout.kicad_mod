@@ -1,6 +1,6 @@
 (footprint "TB6612FNG_Breakout" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 63CB57F0)
+  (tedit 63CE2841)
   (descr "Through hole straight pin header, 1x08, 2.54mm pitch, single row")
   (tags "Through hole pin header THT 1x08 2.54mm single row")
   (attr through_hole)
@@ -76,19 +76,19 @@
   (pad "14" thru_hole oval (at 7.62 3.81) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 7d7e8d08-54d3-42a7-9ef9-c4f8e43948e8))
   (pad "15" thru_hole oval (at 7.62 6.35) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 96ecdd8f-a9ae-4e4d-b24a-a340a6885e8f))
   (pad "16" thru_hole oval (at 7.62 8.89) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 0330faf3-5ff8-463f-aa2b-12a35536601d))
-  (model "${AA_CUSTOM_3DMODELS_DIR}/AA_Custom_Components.3dshapes/8-Pin Header - Female - 2.54mm.step"
-    (offset (xyz -7.62 -8.9 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 -90))
-  )
-  (model "${AA_CUSTOM_3DMODELS_DIR}/AA_Custom_Components.3dshapes/8-Pin Header - Female - 2.54mm.step"
-    (offset (xyz 7.62 8.9 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 90))
-  )
   (model "${AA_CUSTOM_3DMODELS_DIR}/AA_Custom_Components.3dshapes/TB6612FNG_Breakout.step"
-    (offset (xyz 0 0 7))
+    (offset (xyz 0 0 9))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl"
+    (offset (xyz 7.5 9 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl"
+    (offset (xyz -7.5 9 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
   )
 )

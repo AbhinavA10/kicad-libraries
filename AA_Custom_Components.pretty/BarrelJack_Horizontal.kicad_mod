@@ -1,6 +1,6 @@
 (footprint "BarrelJack_Horizontal" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 63CDB82E)
+  (tedit 63CE2883)
   (descr "DC Barrel Jack")
   (tags "Power Jack")
   (attr through_hole)
