@@ -19,6 +19,7 @@
   (fp_line (start -2.54 12.7) (end -2.54 -2.54) (layer "F.SilkS") (width 0.15) (tstamp b8a0d0eb-1767-45ef-84dd-f4756f9cb446))
   (fp_line (start -2.54 -2.54) (end 20.32 -2.54) (layer "F.SilkS") (width 0.15) (tstamp ed24f2f2-4174-4d9e-acb9-092372e9e0d8))
   (fp_circle (center 20.828 -3.048) (end 21.54642 -3.048) (layer "F.SilkS") (width 0.15) (fill solid) (tstamp 5de6bc80-d6b5-4a54-91ff-e612902f0e99))
+  (fp_rect (start -2.667 -2.667) (end 20.447 12.827) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp 51bcce6e-35d8-409d-b5a9-3f4c55ace740))
   (fp_line (start 20.32 -2.54) (end 20.32 12.7) (layer "F.Fab") (width 0.12) (tstamp 161db497-e5df-48ea-a25c-ce3efad4e7a1))
   (fp_line (start -2.54 12.7) (end -2.54 -2.54) (layer "F.Fab") (width 0.12) (tstamp 53aa59f9-041c-4c87-8d36-b0facab06836))
   (fp_line (start -2.54 -2.54) (end 20.32 -2.54) (layer "F.Fab") (width 0.12) (tstamp 88b55a73-053b-4a8d-b69b-16e06058952a))
@@ -32,4 +33,19 @@
   (pad "6" thru_hole circle (at 5.08 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 3ce58793-0f0e-4903-a770-6b8ee5780d7e))
   (pad "7" thru_hole circle (at 2.54 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 81c4a801-b195-44d4-b290-5734cbb4cb14))
   (pad "8" thru_hole circle (at 0 0) (size 1.524 1.524) (drill 0.762) (layers *.Cu *.Mask) (tstamp 793a4c78-b56c-417a-9c49-c8d98867ade0))
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x08_P2.54mm_Vertical.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
+  (model "${AA_CUSTOM_3DMODELS_DIR}/AA_Custom_Components.3dshapes/MPU_6050.step"
+    (offset (xyz 8.9 -7 11))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 180))
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Vertical.wrl"
+    (offset (xyz 0 0 9.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 -90))
+  )
 )
