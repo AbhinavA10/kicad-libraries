@@ -46,7 +46,7 @@
     )
     (symbol "+BATT_ARDUINO_1_1"
       (pin power_in line (at 0 0 90) (length 0) hide
-        (name "+3V3" (effects (font (size 1.27 1.27))))
+        (name "+BATT_ARDUINO" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
     )
@@ -98,7 +98,7 @@
     )
     (symbol "+BATT_MOTORS_1_1"
       (pin power_in line (at 0 0 90) (length 0) hide
-        (name "+BATT" (effects (font (size 1.27 1.27))))
+        (name "+BATT_MOTORS" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
     )
