@@ -2,7 +2,7 @@
 Collection of KiCad Libraries
 
 ## Installation Instructions
-- Install KiCad 6.0
+- Install KiCad 8.0
 - clone this repo to your `Documents` folder.
 - Open KiCad -> Preferences -> Manage Symbol Libraries
 - In the Global Libraries page, add `.lib` files to KiCAD
@@ -12,15 +12,14 @@ Collection of KiCad Libraries
     - `AA_Custom_Components.kicad_sym`
         - (For KiCad 5.0, use `AA_Custom_Components.lib`)
 - Open KiCad -> Preferences -> Manage Footprint Libraries
-- In the Global Libraries page, add `.lib` files to KiCAD
+- In the Global Libraries page, add `.pretty` folders to KiCAD
     - `./digikey-kicad-library/digikey-footprints.pretty`
     - `./sparkfun-kicad-library/Footprints/*`
-    - `myelin-kicad.lib`
     - `AA_Custom_Components.pretty`
-- In KiCad’s `Plugin and Content Manager`, install the `KiBuzzard Plugin`
 - Open KiCad -> Perferences -> Configure Paths
     - Add the following Environment Variable:
         - Name: `AA_CUSTOM_3DMODELS_DIR`, Path: `<location of kicad-libraries repo>\3dmodels`
+- In KiCad’s `Plugin and Content Manager`, install the `KiBuzzard Plugin`
 
 ## Sources
 - `myelin-kicad.lib` is from [here](https://github.com/myelin/myelin-kicad-libraries)
