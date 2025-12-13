@@ -1259,7 +1259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Intelligent 9-axis absolute orientation sensor, LGA-28"
+		(property "Description" "9-axis absolute orientation sensor"
 			(at 0.762 29.972 0)
 			(effects
 				(font
@@ -1277,8 +1277,8 @@
 				(hide yes)
 			)
 		)
-		(property "ReferenceSchematic" "https://cdn-learn.adafruit.com/assets/assets/000/024/546/original/sensors_BNO055_REV-C.png?1429569060"
-			(at 0 0 0)
+		(property "Reference Schematic" "https://cdn-learn.adafruit.com/assets/assets/000/024/546/original/sensors_BNO055_REV-C.png?1429569060"
+			(at 1.778 -33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1447,7 +1447,7 @@
 			(pin input line
 				(at -15.24 -12.7 0)
 				(length 2.54)
-				(name "COM3"
+				(name "I2CADDR"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -3384,6 +3384,149 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "DFR0753_5V_BUCK"
+		(pin_numbers
+			(hide yes)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "U"
+			(at 0 8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "DFR0753_5V_BUCK"
+			(at -7.62 6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 1.27 -6.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "DC-DC BUCK CONVERTER 6~14V TO 5V"
+			(at 2.032 -19.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "DFR0753"
+			(at -0.508 -16.256 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "TO?263*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "DFR0753_5V_BUCK_0_1"
+			(rectangle
+				(start -7.62 5.08)
+				(end 7.62 -5.08)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "DFR0753_5V_BUCK_1_1"
+			(pin power_in line
+				(at -10.16 2.54 0)
+				(length 2.54)
+				(name "VIN"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -7.62 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_out line
+				(at 10.16 2.54 180)
+				(length 2.54)
+				(name "VOUT"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "DG01D_E_HOBBY_MOTOR"
 		(pin_numbers
 			(hide yes)
@@ -4085,7 +4228,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at -10.16 17.78 0)
+			(at 11.43 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4094,7 +4237,7 @@
 			)
 		)
 		(property "Value" "INA3221"
-			(at 5.08 17.78 0)
+			(at -3.81 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4103,7 +4246,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:Texas_RGV0016A_VQFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm"
-			(at 0 29.21 0)
+			(at 1.27 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4112,7 +4255,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ina3221.pdf"
-			(at -0.254 31.75 0)
+			(at 1.524 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4121,7 +4264,7 @@
 			)
 		)
 		(property "Description" "Triple-Channel High-Side Shunt and Bus Voltage Monitor with I2C and SMBUS Compatible Interface, QFN-16"
-			(at 0.762 -27.432 0)
+			(at 0.508 -27.432 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4130,7 +4273,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C181255"
-			(at -0.254 -25.4 0)
+			(at 1.524 -25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4139,7 +4282,16 @@
 			)
 		)
 		(property "Manufacturer Part #" "INA3221AIRGVR"
-			(at -0.254 -29.972 0)
+			(at 1.524 -29.972 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reference Schematic" "https://cdn-learn.adafruit.com/assets/assets/000/133/206/original/adafruit_products_schem.png?1729184593"
+			(at -0.508 -32.766 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4167,8 +4319,8 @@
 		)
 		(symbol "INA3221_0_1"
 			(rectangle
-				(start 10.16 -12.7)
-				(end -10.16 15.24)
+				(start -8.89 15.24)
+				(end 11.43 -12.7)
 				(stroke
 					(width 0.254)
 					(type default)
@@ -4179,188 +4331,8 @@
 			)
 		)
 		(symbol "INA3221_1_1"
-			(pin input line
-				(at -12.7 10.16 0)
-				(length 2.54)
-				(name "IN+1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "12"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -12.7 7.62 0)
-				(length 2.54)
-				(name "IN-1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "11"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -12.7 2.54 0)
-				(length 2.54)
-				(name "IN+2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "15"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -12.7 0 0)
-				(length 2.54)
-				(name "IN-2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "14"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -12.7 -5.08 0)
-				(length 2.54)
-				(name "IN+3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin input line
-				(at -12.7 -7.62 0)
-				(length 2.54)
-				(name "IN-3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at -2.54 17.78 270)
-				(length 2.54)
-				(name "VS"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at -2.54 -15.24 90)
-				(length 2.54)
-				(name "GND"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin power_in line
-				(at 2.54 17.78 270)
-				(length 2.54)
-				(name "VPU"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "16"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 2.54 -15.24 90)
-				(length 2.54)
-				(name "EP"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "17"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin open_collector line
-				(at 12.7 10.16 180)
+				(at -11.43 10.16 0)
 				(length 2.54)
 				(name "PV"
 					(effects
@@ -4378,7 +4350,7 @@
 				)
 			)
 			(pin open_collector line
-				(at 12.7 7.62 180)
+				(at -11.43 7.62 0)
 				(length 2.54)
 				(name "CRITICAL"
 					(effects
@@ -4396,7 +4368,7 @@
 				)
 			)
 			(pin open_collector line
-				(at 12.7 5.08 180)
+				(at -11.43 5.08 0)
 				(length 2.54)
 				(name "WARNING"
 					(effects
@@ -4414,7 +4386,7 @@
 				)
 			)
 			(pin open_collector line
-				(at 12.7 2.54 180)
+				(at -11.43 2.54 0)
 				(length 2.54)
 				(name "TC"
 					(effects
@@ -4432,7 +4404,7 @@
 				)
 			)
 			(pin bidirectional line
-				(at 12.7 -2.54 180)
+				(at -11.43 -2.54 0)
 				(length 2.54)
 				(name "SDA"
 					(effects
@@ -4450,7 +4422,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 -5.08 180)
+				(at -11.43 -5.08 0)
 				(length 2.54)
 				(name "SCL"
 					(effects
@@ -4468,7 +4440,7 @@
 				)
 			)
 			(pin input line
-				(at 12.7 -7.62 180)
+				(at -11.43 -7.62 0)
 				(length 2.54)
 				(name "A0"
 					(effects
@@ -4478,6 +4450,186 @@
 					)
 				)
 				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -1.27 17.78 270)
+				(length 2.54)
+				(name "VPU"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -1.27 -15.24 90)
+				(length 2.54)
+				(name "THERMALPAD"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 3.81 17.78 270)
+				(length 2.54)
+				(name "VS"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 3.81 -15.24 90)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 13.97 10.16 180)
+				(length 2.54)
+				(name "IN+1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 13.97 7.62 180)
+				(length 2.54)
+				(name "IN-1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 13.97 2.54 180)
+				(length 2.54)
+				(name "IN+2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 13.97 0 180)
+				(length 2.54)
+				(name "IN-2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 13.97 -5.08 180)
+				(length 2.54)
+				(name "IN+3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin input line
+				(at 13.97 -7.62 180)
+				(length 2.54)
+				(name "IN-3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -6700,6 +6852,15 @@
 		)
 		(property "Manufacturer Part #" "PCA9685PW,118"
 			(at -0.762 -27.178 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Reference Schematic" "https://cdn-learn.adafruit.com/assets/assets/000/036/269/original/adafruit_products_schem.png?1475858980"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
