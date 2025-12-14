@@ -246,465 +246,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "20PosKeyedMale"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(offset 1.016)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(property "Reference" "J"
-			(at -5.08 13.97 0)
-			(effects
-				(font
-					(size 1.143 1.143)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "Keyed Connector 20 pos"
-			(at -10.922 -15.494 0)
-			(effects
-				(font
-					(size 1.143 1.143)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "AA_Custom_Components:SULLINS_SFH11-PBPC-D10-ST-BK"
-			(at 1.27 16.51 0)
-			(effects
-				(font
-					(size 0.508 0.508)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at -1.27 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "20 POS"
-			(at 0 19.05 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part #" "SBH11-PBPC-D10-ST-BK"
-			(at -0.508 -17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ki_keywords" "PROD_ID:XXX-00000"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ki_fp_filters" "*2X10* *2X10_LOCK* *2X10_NOSILK* *2X10_LOCK_SPECIAL*"
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(symbol "20PosKeyedMale_0_1"
-			(rectangle
-				(start -5.08 12.7)
-				(end 6.35 -12.7)
-				(stroke
-					(width 0)
-					(type solid)
-				)
-				(fill
-					(type background)
-				)
-			)
-		)
-		(symbol "20PosKeyedMale_1_1"
-			(pin bidirectional line
-				(at -7.62 11.43 0)
-				(length 2.54)
-				(name "1"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -7.62 8.89 0)
-				(length 2.54)
-				(name "3"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -7.62 6.35 0)
-				(length 2.54)
-				(name "5"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -7.62 3.81 0)
-				(length 2.54)
-				(name "7"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "7"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -7.62 1.27 0)
-				(length 2.54)
-				(name "9"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "9"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -7.62 -1.27 0)
-				(length 2.54)
-				(name "11"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "11"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -7.62 -3.81 0)
-				(length 2.54)
-				(name "13"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "13"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -7.62 -6.35 0)
-				(length 2.54)
-				(name "15"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "15"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -7.62 -8.89 0)
-				(length 2.54)
-				(name "17"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "17"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at -7.62 -11.43 0)
-				(length 2.54)
-				(name "19"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "19"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 8.89 11.43 180)
-				(length 2.54)
-				(name "2"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 8.89 8.89 180)
-				(length 2.54)
-				(name "4"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 8.89 6.35 180)
-				(length 2.54)
-				(name "6"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 8.89 3.81 180)
-				(length 2.54)
-				(name "8"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "8"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 8.89 1.27 180)
-				(length 2.54)
-				(name "10"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "10"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 8.89 -1.27 180)
-				(length 2.54)
-				(name "12"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "12"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 8.89 -3.81 180)
-				(length 2.54)
-				(name "14"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "14"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 8.89 -6.35 180)
-				(length 2.54)
-				(name "16"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "16"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 8.89 -8.89 180)
-				(length 2.54)
-				(name "18"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "18"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-			(pin bidirectional line
-				(at 8.89 -11.43 180)
-				(length 2.54)
-				(name "20"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-				(number "20"
-					(effects
-						(font
-							(size 1.016 1.016)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "2S_BATTERY_BALANCE_HEADER"
 		(pin_names
 			(offset 1.016)
@@ -3590,6 +3131,474 @@
 		)
 		(embedded_fonts no)
 	)
+	(symbol "CONN_20_POS_KEYED_SOCKET"
+		(pin_numbers
+			(hide yes)
+		)
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at -5.08 13.97 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "CONN_20_POS_KEYED_SOCKET"
+			(at -12.7 -15.494 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "AA_Custom_Components:SULLINS_SBH11-PBPC-D10-ST-BK_SOCKET"
+			(at 1.27 16.51 0)
+			(effects
+				(font
+					(size 0.508 0.508)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -1.27 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "20 POS"
+			(at 0 19.05 0)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "SBH11-PBPC-D10-ST-BK"
+			(at -0.508 -17.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "S9172-ND"
+			(at -0.762 -20.066 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "PROD_ID:XXX-00000"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*2X10* *2X10_LOCK* *2X10_NOSILK* *2X10_LOCK_SPECIAL*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "CONN_20_POS_KEYED_SOCKET_0_1"
+			(rectangle
+				(start -6.35 12.7)
+				(end 5.08 -12.7)
+				(stroke
+					(width 0)
+					(type solid)
+				)
+				(fill
+					(type background)
+				)
+			)
+		)
+		(symbol "CONN_20_POS_KEYED_SOCKET_1_1"
+			(pin bidirectional line
+				(at -8.89 11.43 0)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -8.89 8.89 0)
+				(length 2.54)
+				(name "3"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -8.89 6.35 0)
+				(length 2.54)
+				(name "5"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -8.89 3.81 0)
+				(length 2.54)
+				(name "7"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -8.89 1.27 0)
+				(length 2.54)
+				(name "9"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -8.89 -1.27 0)
+				(length 2.54)
+				(name "11"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "11"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -8.89 -3.81 0)
+				(length 2.54)
+				(name "13"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "13"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -8.89 -6.35 0)
+				(length 2.54)
+				(name "15"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "15"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -8.89 -8.89 0)
+				(length 2.54)
+				(name "17"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "17"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -8.89 -11.43 0)
+				(length 2.54)
+				(name "19"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "19"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 7.62 11.43 180)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 7.62 8.89 180)
+				(length 2.54)
+				(name "4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 7.62 6.35 180)
+				(length 2.54)
+				(name "6"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 7.62 3.81 180)
+				(length 2.54)
+				(name "8"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 7.62 1.27 180)
+				(length 2.54)
+				(name "10"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 7.62 -1.27 180)
+				(length 2.54)
+				(name "12"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "12"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 7.62 -3.81 180)
+				(length 2.54)
+				(name "14"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "14"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 7.62 -6.35 180)
+				(length 2.54)
+				(name "16"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "16"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 7.62 -8.89 180)
+				(length 2.54)
+				(name "18"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "18"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 7.62 -11.43 180)
+				(length 2.54)
+				(name "20"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "20"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
 	(symbol "CORTEX_DEBUG_SMD_UART"
 		(pin_names
 			(offset 1.016)
@@ -4130,7 +4139,16 @@
 			)
 		)
 		(property "Manufacturer Part #" "DFR0753"
-			(at -0.508 -16.256 0)
+			(at -0.508 -23.876 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikay Part Number" "1738-DFR0753-ND"
+			(at 0.254 -21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5362,6 +5380,281 @@
 					(effects
 						(font
 							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+	(symbol "JETSON_ORIN_NANO_DEVKIT_GPIO"
+		(pin_names
+			(offset 1.016)
+		)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(property "Reference" "J"
+			(at -12.7 8.89 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "JETSON_ORIN_NANO_DEVKIT_GPIO"
+			(at -14.732 -10.16 0)
+			(effects
+				(font
+					(size 1.143 1.143)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "AA_Custom_Components:SULLINS_SBH11-PBPC-D05-ST-BK_SOCKET"
+			(at 0 10.16 0)
+			(effects
+				(font
+					(size 0.508 0.508)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at -17.78 -8.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "SBH11-PBPC-D05-ST-BK"
+			(at -0.254 -11.938 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Part #" "S9169-ND"
+			(at -0.254 -13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_fp_filters" "*2X20*"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(symbol "JETSON_ORIN_NANO_DEVKIT_GPIO_1_1"
+			(polyline
+				(pts
+					(xy -10.16 7.62) (xy 10.16 7.62) (xy 10.16 -7.62) (xy -10.16 -7.62) (xy -10.16 7.62)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type background)
+				)
+			)
+			(pin power_in line
+				(at -12.7 5.08 0)
+				(length 2.54)
+				(name "3.3V"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -12.7 2.54 0)
+				(length 2.54)
+				(name "I2C1_SDA"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -12.7 0 0)
+				(length 2.54)
+				(name "I2C1_SCL"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -12.7 -2.54 0)
+				(length 2.54)
+				(name "GPIO09"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at -12.7 -5.08 0)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "9"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 12.7 5.08 180)
+				(length 2.54)
+				(name "5V"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 12.7 2.54 180)
+				(length 2.54)
+				(name "5V"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin power_in line
+				(at 12.7 0 180)
+				(length 2.54)
+				(name "GND"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 12.7 -2.54 180)
+				(length 2.54)
+				(name "UART1_TX"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "8"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 12.7 -5.08 180)
+				(length 2.54)
+				(name "UART1_RX"
+					(effects
+						(font
+							(size 1.016 1.016)
+						)
+					)
+				)
+				(number "10"
+					(effects
+						(font
+							(size 1.016 1.016)
 						)
 					)
 				)

@@ -6,7 +6,7 @@
 	(descr "SMD rectangular pad as solderable power pads, square 4.0mm side length each")
 	(tags "SMD pad rectangle square power")
 	(property "Reference" "REF**"
-		(at 0 -4.5 0)
+		(at 8.75 -24.8 0)
 		(layer "F.SilkS")
 		(uuid "f2cfc46f-56cc-4635-a309-77c2957034f7")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "DFR0753"
-		(at 0 4.5 0)
+		(at 10.5 -13 270)
 		(layer "F.Fab")
 		(uuid "36f89261-74d4-4f2d-b5b3-9cd1760a8ef5")
 		(effects
@@ -51,109 +51,53 @@
 			)
 		)
 	)
+	(property "Reference" "https://www.dfrobot.com/product-2162.html"
+		(at 5.5 3.9 0)
+		(layer "F.CrtYd")
+		(uuid "a3a85168-4e23-4fdf-923b-bf623ec7ef4f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
 	(attr smd exclude_from_pos_files exclude_from_bom)
-	(fp_line
-		(start -9.35 -2.5)
-		(end -4.35 -2.5)
+	(fp_rect
+		(start 0 -23)
+		(end 18 0)
 		(stroke
-			(width 0.12)
+			(width 0.05)
 			(type solid)
 		)
+		(fill no)
 		(layer "F.SilkS")
-		(uuid "af5bb415-bda1-4cb4-aad9-8576637393b8")
+		(uuid "8883bd49-8d7a-4621-8d84-0363056c63ba")
 	)
-	(fp_line
-		(start -9.35 2.5)
-		(end -9.35 -2.5)
+	(fp_circle
+		(center -1.2 1.8)
+		(end -0.4 1.6)
 		(stroke
-			(width 0.12)
+			(width 0.05)
 			(type solid)
 		)
+		(fill yes)
 		(layer "F.SilkS")
-		(uuid "f093cf38-e805-496a-b8df-cec4e563be4d")
+		(uuid "b27c4467-ebcf-4754-b1a2-e27d92b76eac")
 	)
-	(fp_line
-		(start -4.35 -2.5)
-		(end -4.35 2.5)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "617b21b9-449e-4b1f-85a4-bdcf041ceb7e")
-	)
-	(fp_line
-		(start -4.35 2.5)
-		(end -9.35 2.5)
-		(stroke
-			(width 0.12)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "0fc6fd53-10dc-4c28-9289-dedd8b981f33")
-	)
-	(fp_line
-		(start -9.85 -3)
-		(end -9.85 3)
+	(fp_rect
+		(start -3.7 -24.8)
+		(end 21.2 2.4)
 		(stroke
 			(width 0.05)
-			(type solid)
+			(type default)
 		)
+		(fill no)
 		(layer "F.CrtYd")
-		(uuid "b2a07428-2d70-4877-bb9f-f602752b7d1e")
-	)
-	(fp_line
-		(start -9.85 -3)
-		(end -3.85 -3)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "b382912e-bf19-4c4e-b0e3-441a0d3296f0")
-	)
-	(fp_line
-		(start -3.85 -3)
-		(end 10.95 -3)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "607880fa-7465-4442-8ff3-38660f0fdf32")
-	)
-	(fp_line
-		(start -1.85 3)
-		(end -9.85 3)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "0c9e7d28-4410-44d6-84ca-b16c4c7a8518")
-	)
-	(fp_line
-		(start 10.95 3)
-		(end -1.85 3)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "c65822c0-4be2-486d-855d-a7b7b95163d5")
-	)
-	(fp_line
-		(start 10.95 3)
-		(end 10.95 -3)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "F.CrtYd")
-		(uuid "3e299da1-b12c-4893-8388-acf3070422b8")
+		(uuid "8f330b87-da13-447d-8f2b-e9b9fabd6a25")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 0 -4.502 0)
+		(at 19.502 -13 270)
 		(layer "F.Fab")
 		(uuid "4e59c1b2-73fa-4dbf-bf3c-d5cef1333eca")
 		(effects
@@ -164,32 +108,32 @@
 		)
 	)
 	(pad "1" smd rect
-		(at 7.05 0)
-		(size 4 4)
+		(at -0.7 -1.475 270)
+		(size 2.35 5)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "88817f2a-f926-42df-adfe-a4c8dac9c779")
 	)
 	(pad "2" smd rect
-		(at 0.1 -0.05)
-		(size 6.1 3.9)
+		(at -0.7 -7.95 90)
+		(size 4.9 5)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "13ff1d54-85d4-4b88-b82b-cc75b8fa5056")
 	)
 	(pad "3" smd rect
-		(at -6.85 0)
-		(size 4 4)
+		(at -0.75 -13.775 270)
+		(size 2.55 4.9)
 		(layers "F.Cu" "F.Mask" "F.Paste")
-		(uuid "a6f77b9f-e435-47cc-bc4b-67470075c104")
+		(uuid "3b9079ca-01c3-46b8-ae55-1607be79d438")
 	)
 	(pad "4" smd rect
-		(at 3.6 8)
-		(size 5.8 7.5)
+		(at 9.475 -6.625 270)
+		(size 6.45 10.05)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "b9f63e48-8b9a-42ef-a8e5-42ae58f31393")
 	)
 	(pad "5" smd rect
-		(at -7.3 14.9)
-		(size 4 4)
+		(at 18.5 -21.8 270)
+		(size 2.2 4.8)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "e1121e64-728b-4071-a83d-2aa076a29869")
 	)
