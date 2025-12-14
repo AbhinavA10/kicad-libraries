@@ -4179,7 +4179,7 @@
 			)
 		)
 		(symbol "DFR0753_5V_BUCK_1_0"
-			(pin no_connect line
+			(pin passive line
 				(at 10.16 0 180)
 				(length 2.54)
 				(name "THERMAL"
