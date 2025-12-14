@@ -6,7 +6,7 @@
 	(descr "Through hole straight pin header, 2x06, 2.54mm pitch, double rows")
 	(tags "Through hole pin header THT 2x06 2.54mm double row")
 	(property "Reference" "REF**"
-		(at 1.27 -2.38 0)
+		(at 2.9718 -2.921 0)
 		(layer "F.SilkS")
 		(uuid "5b87bc81-fe9c-42c8-af74-f7d517bc3283")
 		(effects
@@ -17,7 +17,7 @@
 		)
 	)
 	(property "Value" "Servo_PinHeader_3x06_P2.54mm_Vertical"
-		(at 2.54 16.6878 0)
+		(at 5.1054 21.082 0)
 		(layer "F.Fab")
 		(uuid "4a98ace7-a106-4a04-854c-29c06ade867f")
 		(effects
@@ -221,6 +221,45 @@
 		)
 		(layer "F.Fab")
 		(uuid "82ce2002-8c37-413c-98ae-630f9b95df4b")
+	)
+	(fp_text user "-"
+		(at 5.6134 15.7734 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "401bedac-6ba9-402e-bea6-a0da065b75fb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "+"
+		(at 3.048 15.7988 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "4dc5ca7b-0b77-4c33-a5fd-fa48c55f0492")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "PWM"
+		(at 0.6604 18.161 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "fcdff558-3b24-4399-abed-9c115adf0ec7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
 	)
 	(fp_text user "${REFERENCE}"
 		(at 1.27 6.35 90)
