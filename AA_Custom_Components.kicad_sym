@@ -3912,7 +3912,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "CRYSTAL-SMD-3.2X1.5MM"
+		(property "Footprint" "AA_Custom_Components:CRYSTAL-SMD-3.2X1.5MM"
 			(at 0 5.08 0)
 			(effects
 				(font

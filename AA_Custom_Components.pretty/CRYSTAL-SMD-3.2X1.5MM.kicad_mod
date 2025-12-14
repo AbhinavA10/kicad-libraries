@@ -1,0 +1,141 @@
+(footprint "CRYSTAL-SMD-3.2X1.5MM"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "3.2 X 1.5MM SMD CRYSTAL PACKAGE")
+	(tags "3.2 X 1.5MM SMD CRYSTAL PACKAGE")
+	(property "Reference" ">NAME"
+		(at 0 -1.524 0)
+		(layer "F.SilkS")
+		(uuid "072f8f7f-11e5-4b52-8380-da27d467d8d7")
+		(effects
+			(font
+				(size 0.6096 0.6096)
+				(thickness 0.127)
+			)
+		)
+	)
+	(property "Value" ">VALUE"
+		(at 0 1.524 0)
+		(layer "F.SilkS")
+		(uuid "0432aa72-3415-440b-bfa7-aba459303cf9")
+		(effects
+			(font
+				(size 0.6096 0.6096)
+				(thickness 0.127)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1e41a886-1e94-4b59-9ddf-744ddb2b7190")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "954b25c5-e25d-467f-9e7c-ea6ff020ed53")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.49784 -0.84836)
+		(end 0.49784 -0.84836)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "24377061-8a30-4977-8f1e-abcebdba7044")
+	)
+	(fp_line
+		(start 0.49784 0.84836)
+		(end -0.49784 0.84836)
+		(stroke
+			(width 0.2032)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f574f424-3ce0-4765-a224-563d8d003497")
+	)
+	(fp_line
+		(start -1.59766 -0.7493)
+		(end 1.59766 -0.7493)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "8b570dbd-c314-49b4-8a1b-c485a7ceb265")
+	)
+	(fp_line
+		(start -1.59766 0.7493)
+		(end -1.59766 -0.7493)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "c4d996df-f02c-4c08-8349-3e87f16bcc28")
+	)
+	(fp_line
+		(start 1.59766 -0.7493)
+		(end 1.59766 0.7493)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "6249530d-294b-4e25-b348-8be472a728d0")
+	)
+	(fp_line
+		(start 1.59766 0.7493)
+		(end -1.59766 0.7493)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "8f9fd4f1-5574-42d6-8bbb-7ebd5fa8de58")
+	)
+	(pad "P$1" smd rect
+		(at -1.24968 0)
+		(size 0.99822 1.79832)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.1016)
+		(uuid "5ae2b576-64b4-4606-bbbe-6cee53f350cc")
+	)
+	(pad "P$2" smd rect
+		(at 1.24968 0)
+		(size 0.99822 1.79832)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.1016)
+		(uuid "4a6dc588-1236-42e8-bb2f-419568d58e3c")
+	)
+	(embedded_fonts no)
+	(model "${AA_CUSTOM_3DMODELS_DIR}/AA_Custom_Components.3dshapes/Crystal-SMD-3215.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -180)
+		)
+	)
+)

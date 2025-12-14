@@ -6,9 +6,9 @@
 	(descr "SMD rectangular pad as solderable power pads, square 4.0mm side length each")
 	(tags "SMD pad rectangle square power")
 	(property "Reference" "REF**"
-		(at 8.75 -24.8 0)
-		(layer "F.SilkS")
-		(uuid "f2cfc46f-56cc-4635-a309-77c2957034f7")
+		(at 2.25 3.75 0)
+		(layer "F.Fab")
+		(uuid "a3a85168-4e23-4fdf-923b-bf623ec7ef4f")
 		(effects
 			(font
 				(size 1 1)
@@ -39,7 +39,7 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "https://www.dfrobot.com/product-2162.html"
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
@@ -47,17 +47,6 @@
 		(effects
 			(font
 				(size 1.27 1.27)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Reference" "https://www.dfrobot.com/product-2162.html"
-		(at 5.5 3.9 0)
-		(layer "F.CrtYd")
-		(uuid "a3a85168-4e23-4fdf-923b-bf623ec7ef4f")
-		(effects
-			(font
-				(size 1 1)
 				(thickness 0.15)
 			)
 		)
@@ -138,4 +127,15 @@
 		(uuid "e1121e64-728b-4071-a83d-2aa076a29869")
 	)
 	(embedded_fonts no)
+	(model "${AA_CUSTOM_3DMODELS_DIR}/AA_Custom_Components.3dshapes/DFR0753_Approx.step"
+		(offset
+			(xyz -2.5 25.5 1.1)
+		)
+		(scale
+			(xyz 0.925 0.9 0.7)
+		)
+		(rotate
+			(xyz -0 -0 90)
+		)
+	)
 )
