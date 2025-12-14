@@ -4505,7 +4505,7 @@
 			)
 		)
 		(property "Description" "Ground Supply (Earth Ground style) Ground supply with a traditional \"earth ground\" symbol."
-			(at 0 0 0)
+			(at 0 -8.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4984,7 +4984,7 @@
 			)
 		)
 		(property "Value" "INA3221"
-			(at -3.81 17.78 0)
+			(at -11.43 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4992,7 +4992,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:Texas_RGV0016A_VQFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm"
+		(property "Footprint" "AA_Custom_Components:Texas_RGV0016A_VQFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias"
 			(at 1.27 29.21 0)
 			(effects
 				(font
@@ -5168,7 +5168,7 @@
 					)
 				)
 			)
-			(pin input line
+			(pin bidirectional line
 				(at -11.43 -5.08 0)
 				(length 2.54)
 				(name "SCL"
@@ -9829,7 +9829,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Silicon-Standard:TSSOP-28_4MM"
+		(property "Footprint" "AA_Custom_Components:TSSOP-28_4MM"
 			(at 0 22.86 0)
 			(effects
 				(font
@@ -9875,7 +9875,7 @@
 			)
 		)
 		(property "Reference Schematic" "https://cdn-learn.adafruit.com/assets/assets/000/036/269/original/adafruit_products_schem.png?1475858980"
-			(at 0 0 0)
+			(at -1.27 -29.972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
