@@ -53,10 +53,10 @@
 	)
 	(attr smd exclude_from_pos_files exclude_from_bom)
 	(fp_rect
-		(start 0 -23)
-		(end 18 0)
+		(start 2.5 -22.5)
+		(end 15.5 -0.5)
 		(stroke
-			(width 0.05)
+			(width 0.3)
 			(type solid)
 		)
 		(fill no)
