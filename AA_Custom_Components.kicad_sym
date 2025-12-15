@@ -1518,6 +1518,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Rotation Offset" "-90"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "ki_keywords" "IMU Fusion I2C UART"
 			(at 0 0 0)
 			(effects
@@ -4147,7 +4156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikay Part Number" "1738-DFR0753-ND"
+		(property "Digikey Part #" "1738-DFR0753-ND"
 			(at 0.254 -21.59 0)
 			(effects
 				(font
@@ -9876,6 +9885,15 @@
 		)
 		(property "Reference Schematic" "https://cdn-learn.adafruit.com/assets/assets/000/036/269/original/adafruit_products_schem.png?1475858980"
 			(at -1.27 -29.972 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "90"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
